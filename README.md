@@ -2,7 +2,9 @@
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+- 🌱 Eu estou estudando atualmente sobre os hooks, redux, reducer e context api ...
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -11,11 +13,15 @@
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div style="display: inline_block"><br>
   <a href="github.com/filipe5g">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe5g&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe5g&layout=compact&langs_count=16&theme=dark"/>
 </div>
+-->
+
+## Especialidades
 
 <div style="display: inline_block"><br>
   <img align="center" alt="FiLiPe-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
