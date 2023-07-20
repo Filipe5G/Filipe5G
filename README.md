@@ -23,7 +23,7 @@
   <img align="center" alt="FiLiPe-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="FiLiPe-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="FiLiPe-Ts" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" src="https://i.pinimg.com/236x/e3/41/50/e34150ff1c06dafe0a8ef9780bf476d8.jpg" height="160" width="160" />
+  <img align="right" src="https://img.freepik.com/vetores-gratis/astronauta-bonito-trabalhando-com-o-laptop-no-espaco-ilustracao-vetorial-icone-dos-desenhos-animados-ciencia-tecnologia_138676-8023.jpg?w=740&t=st=1689861092~exp=1689861692~hmac=8ec8a6175e04871089e8c4f1e663207df3dc25d56168d793a7ffd4e0a0808937" height="160" width="180" style="object_fit: cover" />
 </div>
 
 ## 
