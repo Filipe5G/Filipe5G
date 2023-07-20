@@ -26,7 +26,7 @@
   <img align="right" src="./tiro-medio-mulher-trabalhando-no-laptop_23-2150323516.png" height="160" width="240" style="object_fit: cover" />
 </div>
 
-## 
+## Social Media
 
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/none" height="34" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="34" target="_blank"></a>
