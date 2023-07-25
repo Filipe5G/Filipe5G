@@ -5,11 +5,11 @@
 - 🌱
 -->
 <br>
-Entusiasta das melhores tecnologias de desenvolvimento web.
+Sou um entusiasta das melhores tecnologias de desenvolvimento web.
 <br>
-Apaixonado por desenvolvimento Web Front End.
+Apaixonado pelo desenvolvimento Front End.
 <br>
-O meu lema é: Persista até conseguir com foco e disciplina.
+Meu lema é: persistir até conseguir, com foco e disciplina.
 <br>
 <!--
 - 👯 I’m looking to collaborate on ...
