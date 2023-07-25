@@ -9,7 +9,7 @@ Entusiasta das melhores tecnologias de desenvolvimento web.
 <br>
 Apaixonado por desenvolvimento Web Front End.
 <br>
-O meu lema é: Persistir até conseguir com foco e disciplina.
+O meu lema é: Persista até conseguir com foco e disciplina.
 <br>
 <!--
 - 👯 I’m looking to collaborate on ...
