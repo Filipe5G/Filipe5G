@@ -3,7 +3,7 @@
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 Eu estou estudando atualmente sobre os hooks, redux, reducer e context api
+- 🌱 Eu estou estudando atualmente: hooks, redux, reducer e context api
   <br><br><br><br>
 <!--
 - 👯 I’m looking to collaborate on ...
