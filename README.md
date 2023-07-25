@@ -10,7 +10,7 @@ Sou um entusiasta das melhores tecnologias de desenvolvimento web.
 Apaixonado pelo desenvolvimento Front End.
 <br>
 Meu lema é: persistir até conseguir, com foco e disciplina.
-<br>
+<br><br>
 
 <!--
 - 👯 I’m looking to collaborate on ...
