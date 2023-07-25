@@ -2,9 +2,15 @@
 
 <!--
 - 🔭 I’m currently working on ...
+- 🌱
 -->
-- 🌱 Eu estou estudando atualmente: hooks, redux, reducer e context api
-  <br><br><br><br>
+<br>
+Entusiasta das melhores tecnologias de desenvolvimento web.
+<br>
+Apaixonado por desenvolvimento Web Front End.
+<br>
+O meu lema é: Persistir até conseguir com foco e disciplina.
+<br>
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
