@@ -11,6 +11,9 @@ Apaixonado pelo desenvolvimento Front End.
 <br>
 Meu lema é: persistir até conseguir, com foco e disciplina.
 <br>
+
+Atualmente estou aprendendo e desenvolvendo um projeto em ReactJS
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
