@@ -1,4 +1,4 @@
-## Olá, eu sou Filipe Silva, Desenvolvedor Web Front End!
+## Filipe Silva
 
 <!--
 - 🔭 I’m currently working on ...
