@@ -1,4 +1,4 @@
-## Filipe Silva
+# Filipe Silva
 
 <!--
 - 🔭 I’m currently working on ...
