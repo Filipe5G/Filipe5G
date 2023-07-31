@@ -40,9 +40,10 @@ Meu lema é: persistir até conseguir, com foco e disciplina.
   />
   -->
 </div>
-
+<!--
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/none" height="30" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" height="30" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" target="_blank"></a> 
 </div>
+-->
