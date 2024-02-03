@@ -35,6 +35,7 @@ Meu lema é: persistir até conseguir, com foco e disciplina.
   <img align="center" alt="FiLiPe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="FiLiPe-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="FiLiPe-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="FiLiPe-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next.svg">
   <!--
   <img align="right" src="./tiro-medio-mulher-trabalhando-no-laptop_23-2150323516.png" height="160" width="240" style="object_fit: cover" 
   />
